@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/colemangardiner/ActiveDirectoryLab.git)
   - [Ticketing System Home Lab](https://github.com/colemangardiner/Ticketing-System-Lab.git)
-  - [OKTA SSO Lab](https://github.com/colemangardiner/OKTA-SSO-Lab.git)
+  - [OKTA Identity Management Lab](https://github.com/colemangardiner/OKTA-Identity-Management-Lab.git)
 
 <h2> 🤳 Connect with me:</h2>
 
